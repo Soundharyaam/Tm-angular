@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { SandboxComponent } from './app/components/sandbox/sandbox.component';
+import { SandboxComponent } from './components/sandbox/sandbox.component';
 
 @NgModule({
   declarations: [
